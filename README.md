@@ -11,7 +11,7 @@ Il a été fait dans le cadre d'un projet de certification FreeCodeCamp.
 ## Fonctionnalités
 
 ### Frontent
-- Un ticket peut être crée un saissisant les informations nécessaires.
+- Un ticket peut être créé un saissisant les informations nécessaires.
 - Un ticket peut être mis à jour en saisissant un **id** existant et les informations nécessaires.
 - Un ticket peut être supprimé en saisissant un **id** existant.
 - La liste de tous les tickets existants pour un projet donné peut être consulté en efectuant la requête **GET** appropriée.
