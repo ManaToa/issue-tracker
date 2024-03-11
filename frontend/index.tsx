@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { initRecaptcha } from '../../utils/reCaptcha'
-import BoxContainer from '../box-container'
+import BoxContainer from './box-container'
 import ServerResponse from '../server-response'
 
 import CreateIssue from './create-issue'
